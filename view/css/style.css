@@ -1,0 +1,8 @@
+#entradas,
+#tags{background-color:#d2d2d2; display: block;}
+  #entradas .listado-entradas,
+  #tags .listado-tags{list-style: none;}
+	  #entradas .listado-entradas li.firt,
+	  #tags .listado-tags li.firt{font-size: 22px; font-weight: 700;}
+span.ivan-picture{background: url(../images/ivan.jpg) center no-repeat; height: 350px; width: auto; margin:25px; display: block;}
+.copyright{text-align: center;}

@@ -1,0 +1,6 @@
+# Turn rewrite engine on
+Options +FollowSymlinks
+RewriteEngine on
+
+# Mapping URL to internal URL
+RewriteRule ^rest/entradas/$   ?controller="Rest"&action="index" [nc,qsa]
